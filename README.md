@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @exceptionalkid
 - 👀 I’m interested in programming 
+- :red_car: I’m a Car enthusiast 
 - 🌱 I’m currently learning .NET MAUI, AngularJs & .Net Core Blazor
 
 <!---
