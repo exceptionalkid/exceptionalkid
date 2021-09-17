@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @exceptionalkid
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning .NET MAUI
+- 🌱 I’m currently learning .NET MAUI, AngularJs & .Net Core Blazor
 
 <!---
 exceptionalkid/exceptionalkid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
